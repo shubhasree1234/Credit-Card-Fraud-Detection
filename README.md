@@ -1,10 +1,9 @@
 # Credit-Card-Fraud-Detection
 
-# Credit-Card-Fraud-Detection
-
 ## __Discussion__ - 
 
-**The Banking and Finance Industry** uses **_Data Science_ and _Machine Learning_** for various use cases such as Detection of Fraudulent Transactions , Customer Lifetime Value Predictions , Risk Modelling , Personalised Marketing and several others.<br> __Check them Out Here:__  <https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/><br> In this Hands-On Lab Session we shall create Machine Learning Models that solve the essential and complex problem of Fraud Detection in Transactions to empower the Industry with **Real-Time Classification of Fraud**.Latest Machine Learning Techniques can help to solve this problem with a decent level of accuracy and in a very short time span.
+**The Banking and Finance Industry** uses **_Data Science_ and _Machine Learning_** for various use cases such as Detection of Fraudulent Transactions , Customer Lifetime Value Predictions , Risk Modelling , Personalised Marketing and several others.<br> __
+Check them Out Here:__  <https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/><br> In this Hands-On Lab Session we shall create Machine Learning Models that solve the essential and complex problem of Fraud Detection in Transactions to empower the Industry with **Real-Time Classification of Fraud**.Latest Machine Learning Techniques can help to solve this problem with a decent level of accuracy and in a very short time span.
 
 This dataset............
 
